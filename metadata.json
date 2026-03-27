@@ -1,0 +1,5 @@
+{
+  "name": "PEG & Kelly Stock Analyzer",
+  "description": "A financial analysis tool that calculates P/E, PEG-based implied growth rates, and Kelly Criterion position sizing for stock tickers.",
+  "requestFramePermissions": []
+}
